@@ -1,0 +1,6 @@
+answer_style:
+  tone: "professional"
+  length: "brief"
+  focus: "logic"
+  persona: "experienced engineer"
+  format: "paragraph"
